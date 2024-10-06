@@ -1,12 +1,12 @@
 body {
-    background-color: #f164e6; /*  background for the body */
+    background-color: #8dc5d0; /*  background for the body */
      margin: 0;
      font-family: 'Be Vietnam Pro', sans-serif; /* Font for the body */
      line-height: 1.6; /* Line height for better readability */
  }
  
  header {
-     background-color: #937aff; /* Dark background for header */
+     background-color: #9496aa; /* Dark background for header */
      color: rgb(39, 194, 255); /* White text color for header */
      padding: 10px 0; /* Padding around header */
      text-align: center; /* Center text in header */
