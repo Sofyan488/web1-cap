@@ -1,24 +1,41 @@
 header{
-background-color: aliceblue;
+    position: fixed;
+    top: 0;
+    left: 0;
+background-color:#F0F0F0;
 padding: 19px;;
 }
+
+
+
+
 
 main {
 width: 60%;
 margin: 20px auto ;
-background-color: gray;
+background-color:#E0E0E0;
 padding: 15px;
 }
+
+
+
 
 aside{
-
 width: 30%;
 margin: 20px auto;
-background-color: gray;
+background-color:#D0D0D0;
+position: relative;
+left: 0;
 padding: 15px;
 }
-footer{
-background-color: gray;
-padding: 10px;
 
+
+
+
+footer{
+background-color:#C0C0C0;
+padding: 10px;
+position: fixed;
+bottom: 0;
+left: 0;
 }
