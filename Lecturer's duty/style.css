@@ -1,8 +1,5 @@
 header{
-    position: fixed;
-    top: 0;
-    left: 0;
-background-color:#F0F0F0;
+background-color: aliceblue;
 padding: 19px;;
 }
 
@@ -23,9 +20,7 @@ padding: 15px;
 aside{
 width: 30%;
 margin: 20px auto;
-background-color:#D0D0D0;
-position: relative;
-left: 0;
+background-color: gray;
 padding: 15px;
 }
 
@@ -33,7 +28,7 @@ padding: 15px;
 
 
 footer{
-background-color:#C0C0C0;
+background-color: gray;
 padding: 10px;
 position: fixed;
 bottom: 0;
