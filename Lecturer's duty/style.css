@@ -1,0 +1,36 @@
+header{
+background-color: aliceblue;
+padding: 19px;;
+}
+
+
+
+
+
+main {
+width: 60%;
+margin: 20px auto ;
+background-color:#E0E0E0;
+padding: 15px;
+}
+
+
+
+
+aside{
+width: 30%;
+margin: 20px auto;
+background-color: gray;
+padding: 15px;
+}
+
+
+
+
+footer{
+background-color: gray;
+padding: 10px;
+position: fixed;
+bottom: 0;
+left: 0;
+}
