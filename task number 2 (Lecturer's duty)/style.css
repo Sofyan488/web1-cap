@@ -1,0 +1,50 @@
+body {
+    background-color: #F2EAE2;
+    display: grid;
+    line-height: 1.5;
+    min-height: 100vh;
+    padding: 0.75rem;
+    place-items: center;
+    -webkit-font-smoothing: antialiased;
+  }
+  .card {
+    background-color: #F9F9F9;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex; /* استخدام flexbox */
+    align-items: center; /* توسيط العناصر عمودياً */
+    width: 600px; /* عرض البطاقة */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .product-image {
+    width: 50%; /* عرض الصورة */
+    border-radius: 10px;
+  }
+  .details {
+    padding-left: 20px; /* إضافة مسافة بين الصورة والنص */
+  }
+  .name {
+    font-size: 1.5em; /* حجم الخط لاسم المنتج */
+    margin: 10px 0;
+  }
+  .description {
+    font-size: 0.9em; /* حجم الخط للوصف */
+    color: #666; /* لون الوصف */
+  }
+  .price-line {
+    align-items: center;
+    display: flex;
+    gap: 1.5em;
+  }
+  .old-price {
+    font-size: 0.813rem;
+    text-decoration: line-through;
+  }
+  .new-price {
+    color: #3D8168;
+  }
+  .category {
+    font-size: 0.75rem;
+    letter-spacing: 0.313em;
+    text-transform: uppercase;
+  }
